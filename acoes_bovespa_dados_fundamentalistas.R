@@ -2,7 +2,7 @@
 # Web Scraping Fundamentus
 # Autor: Pedro Assumpcao
 # Data: 01/02/2023
-# Proposta: Baixar informacao fundamentalista de todas acoes listadas na bolsa
+# Proposta: Baixar informacoes fundamentalistas de todas acoes listadas na bolsa
 #-------------------------------------------------------------
 
 
